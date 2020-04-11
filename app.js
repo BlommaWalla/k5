@@ -4,4 +4,10 @@ burger.addEventListener("click", toggleBurger);
 
 function toggleBurger() {
     burger.classList.toggle("change");
-};
+}
+
+
+
+
+
+
