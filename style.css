@@ -108,7 +108,7 @@ ul a {
 
 .hist {
     max-width: 25vw;
-    font-size: 2vw;
+    font-size: 1.5vw;
 }
 
 @media only screen and (max-width: 1200px) {
